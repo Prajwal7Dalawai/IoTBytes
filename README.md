@@ -14,5 +14,5 @@
 <li><a href="https://github.com/Prajwal7Dalawai/IoTBytes/blob/main/5.ultraSonicSensorwithRGB.ino">Ultra Sonic Sensor with RGB Stick</li>
 <li><a href="https://github.com/Prajwal7Dalawai/IoTBytes/blob/main/6.LM35TempSensor.ino">LM35 Temperature Sensor</li>
 <li><a href="https://github.com/Prajwal7Dalawai/IoTBytes/blob/main/7.TempWithBuzz.ino">LM35 Temp Sensor with Buzzer</li>
-<li><a href="https://github.com/Prajwal7Dalawai/IoTBytes/blob/main/10.LDRBuzzerLED.ino">DHT11 Humidity Sensor</li>
+<li><a href="https://github.com/Prajwal7Dalawai/IoTBytes/blob/main/8.DHT11Humid.ino">DHT11 Humidity Sensor</li>
 </ol>
